@@ -1,0 +1,15 @@
+# Data from the TEJ database (licensed, not redistributable) and generated results
+data/
+*.xlsx
+*.xls
+*.csv
+
+# Reports
+*.docx
+*.pdf
+
+# Python / Jupyter / OS
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
