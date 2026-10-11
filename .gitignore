@@ -1,8 +1,14 @@
-# Data from the TEJ database (licensed, not redistributable) and generated results
+# Data from the TEJ database (licensed, not redistributable)
 data/
 *.xlsx
 *.xls
 *.csv
+
+# Aggregated results contain no stock-level data and are shared
+!results/*.csv
+
+# Cached model predictions (recomputed by analysis.ipynb)
+cache/
 
 # Reports
 *.docx
