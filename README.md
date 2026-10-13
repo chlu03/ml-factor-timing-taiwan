@@ -1,4 +1,4 @@
-# Factor Timing with Machine-Learning IC Forecasts
+# ML Factor Timing on Taiwan Stocks
 
 Can machine learning predict which equity factor will work next month? This project forecasts the
 information coefficient (IC) of three factors (book-to-market, size, and momentum) for 1,848 Taiwan-listed
